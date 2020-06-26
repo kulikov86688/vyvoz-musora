@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+Disallow: /cgi-bin
+Disallow: /css
+Disallow: /js
+
+User-agent: Yandex
+Allow: /
+Disallow: /cgi-bin
+Disallow: /css
+Disallow: /js
+
+User-agent: Googlebot
+Allow: /
+Disallow: /cgi-bin
+Disallow: /css
+Disallow: /js
+
+Host: https://xn----ctbaufyblfujx0h.xn--80adxhks/
+Sitemap: https://xn----ctbaufyblfujx0h.xn--80adxhks/sitemap.xml
+
